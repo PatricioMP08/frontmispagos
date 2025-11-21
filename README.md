@@ -54,11 +54,14 @@ export default api;
 
 ## 🔧 Scripts
 
+``` 
   Script          Descripción
   --------------- --------------------
   npm run dev     Dev server
   npm run build   Build producción
   npm start       Ejecuta producción
+```
+
 
 ------------------------------------------------------------------------
 
